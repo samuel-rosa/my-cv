@@ -6,8 +6,7 @@ output:
   toc: true
   toc_float: true
   theme: "journal"
-output_dir: "docs"
-github-repo: samuel-rosa/my-cv
+ # pdf_document
 ---
 
 ```{r setup, include=FALSE}
@@ -59,11 +58,11 @@ Seropédica, Rio de Janeiro, Brazil")`
 ### Qualifications
 
 `r table("", 
-"Alessandro Samuel-Rosa has studied soil science and works at the Federal Rural University of Rio de Janeiro
-(UFRRJ) for half a decade. After his early work on the interactions between land use and soil quality
-at the Federal University of Santa Maria (UFSM), in 2012 he moved to the field of pedometrics. Collaboration
-with researchers from the National Centre for Research on Soils (Embrapa Soils), International
-Soil Reference and Information Centre (ISRIC), Wageningen University and Research Centre (WUR) and UFRRJ 
+"Alessandro Samuel-Rosa has studied soil science and works at the Federal University of Santa Maria (UFSM) 
+since the end of 2016. After his early work on the interactions between land use and soil quality
+at UFSM, in 2012 he moved to the field of Pedometrics. Collaboration with researchers from the National 
+Centre for Research on Soils (Embrapa Soils), International Soil Reference and Information Centre (ISRIC),
+Wageningen University and Research Centre (WUR) and Federal Rural University of Rio de Janeiro (UFRRJ) 
 enabled him to master multiple pedometric methods and techniques. His main research interest is on soil 
 spatial modelling with a focus on sampling strategies, model selection and calibration, and uncertainty
 analysis. He has recently published some relevant papers in peer-reviewed, international journals on these 
@@ -112,7 +111,11 @@ Advisor: <a href="http://lattes.cnpq.br/3735884911693854">Ricardo Dalmolin</a>.<
 
 ### Postdoctorate
 
-`r table(2016, "Federal Rural University of Rio de Janeiro, UFRRJ, Brazil.<br>
+`r table("Dec 2016--", "Federal University of Santa Maria, UFSM, Brazil.<br>
+Grantee of the Coordination for the Improvement of Higher Education Personnel (CAPES), Brazil.<br>
+Major Area: Agrarian Sciences. Area: Soil Science. Sub-area: Pedometrics.")`
+
+`r table("Mar--Nov 2016", "Federal Rural University of Rio de Janeiro, UFRRJ, Brazil.<br>
 Grantee of the Coordination for the Improvement of Higher Education Personnel (CAPES), Brazil.<br>
 Major Area: Agrarian Sciences. Area: Soil Science. Sub-area: Pedometrics.")`
 
