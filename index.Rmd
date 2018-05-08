@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-date: "`r format(Sys.time(), '%d %B %Y')`"
+date: "05 May 2018"
 output:
  html_document:
   toc: true
@@ -33,60 +33,57 @@ table <-
 
 `r table("Name", "<b>Alessandro Samuel Rosa</b>")`
 
-`r table("Citation", "SAMUEL-ROSA, Alessandro; ROSA, Alessandro Samuel; ROSA, Alessandro Samuel da")`
+`r table("Citation", "SAMUEL-ROSA, Alessandro")`
 
 `r table("Nationality", "Brazilian")`
 
 `r table("Date and place of birth", "05 June 1985, Tapera, Rio Grande do Sul")`
 
-`r table("Address", "
-Rua Walcreuze Guimarães, 545<br>
-Bairro Boa Esperança<br>
-CEP 23894458<br>
-Seropédica, Rio de Janeiro, Brazil")`
+`r table("Work address", "
+Universidade Tecnológica Federal do Paraná<br>
+Prolongamento da Rua Cerejeira, s/n, Sala E8<br>
+Bairro São Luiz<br>
+CEP 85892-000<br>
+Santa Helena, Paraná, Brazil")`
 
-`r table("Telephone", "+55 (21) 2682-8516 or +55 (21) 97319-3838")`
+`r table("Telephone", "+55 (45) 3268-8800 or +55 (19) 9-9191-5377")`
 
-`r table("E-mail", "alessandrosamuelrosa at gmail.com")`
+`r table("E-mail", "alessandrorosa@utfpr.edu.br")`
 
 `r table("Skype", "alessandrosamuel")`
 
-`r table("Webpage", "https://www.researchgate.net/profile/Alessandro_Samuel-Rosa")`
+`r table("ORCID", "https://orcid.org/0000-0003-0877-1320")`
 
-`r table("Complete CV", "http://lattes.cnpq.br/1609751519717461")`
+`r table("ResearchGate", "https://www.researchgate.net/profile/Alessandro_Samuel-Rosa")`
+
+`r table("GitHub", "https://github.com/samuel-rosa")`
+
+`r table("Twitter", "https://twitter.com/ASamuelRosa")`
+
+`r table("Lattes", "http://lattes.cnpq.br/1609751519717461")`
 
 ### Qualifications
 
 `r table("", 
-"Alessandro Samuel-Rosa has studied soil science and works at the Federal University of Santa Maria (UFSM) 
-since the end of 2016. After his early work on the interactions between land use and soil quality
-at UFSM, in 2012 he moved to the field of Pedometrics. Collaboration with researchers from the National 
-Centre for Research on Soils (Embrapa Soils), International Soil Reference and Information Centre (ISRIC),
-Wageningen University and Research Centre (WUR) and Federal Rural University of Rio de Janeiro (UFRRJ) 
-enabled him to master multiple pedometric methods and techniques. His main research interest is on soil 
-spatial modelling with a focus on sampling strategies, model selection and calibration, and uncertainty
-analysis. He has recently published some relevant papers in peer-reviewed, international journals on these 
-topics. He is the author of two R-packages, namely, pedometrics -- a collection of functions for spatial
-exploratory data analysis and model calibration -- and spsann -- an implementation of simulated annealing to
-optimize spatial sample configurations. Both packages are widely used, each with more than 200 downloads per
-month on average from the RStudio CRAN mirror.")`
+"I am teacher and researcher of the Federal University of Technology - Paraná, Campus Santa Helena (UTFPR-SH), since March 2018. After my first studies at the Federal University of Santa Maria (UFSM) on the complex interactions between land use and quality of soil, in 2012, I moved to the field of quantitative pedology, better known as pedometrics. Since then, collaboration with researchers from the National Soil Research Center (Embrapa Soils, Brazil), the International Soil Reference and Information Center (ISRIC, the Netherlands), Wageningen University and Research (WUR, the Netherlands), and the Federal Rural University of Rio de Janeiro (UFRRJ, Brazil), allowed me to familiarize myself with multiple pedometrics methods and techniques.
+Today, my main academic-scientific interest is pedometrics, more specificaly the study of spatial sampling strategies, the selection and calibration of (geo)statistical models for digital soil mapping, and bottom-up approaches for open soil data management. Recently, I have published some relevant articles on these topics in national and international journals. I am also the author of three packages for R - pedometrics, spsann, and febr - and maintainer of the Free Brazilian Repository for Open Soil Data (febr).")`
 
-`r table("Gustavo Vasques", 
-"I have had the pleasure of co-advising Alessandro Samuel Rosa during his doctoral studies [...]. In this 
+`r table("Gustavo Vasques<br>(Embrapa Soils)",
+'"I have had the pleasure of co-advising Alessandro Samuel Rosa during his doctoral studies [...]. In this 
 period I came to know Alessandro’s professional and personal skills and am confident to say that he is an
 outstanding researcher and person. He is really smart, organized, and meticulous with everything he does. [...]
 I must add that doing research and publishing with Alessandro is easy, as he leads and guides us through the
 whole process very smoothly, be it research (data collection, analysis, interpretation, etc.) or publication 
-(write-up, submission, review, etc.). This is partly due to his excellent English and writing skills.")`
+(write-up, submission, review, etc.). This is partly due to his excellent English and writing skills."')`
 
-`r table("Gerard Heuvelink",
-"Alessandro came to Wageningen to work on his PhD-research for twelve months in 2014 and also came for a 
+`r table("Gerard Heuvelink<br>(ISRIC)",
+'"Alessandro came to Wageningen to work on his PhD-research for twelve months in 2014 and also came for a 
 shorter period in 2015. During these periods I had ample time to get to know him better. Without any doubt I 
 can say that he is among the best PhD students that I have supervised. He is intelligent, dedicated, 
 meticulous, cooperative, hard-working and self-critical. He can master new methods and techniques very quickly.
 He is strong in soil science, statistics as well as in information science. Above all, he is creative and
 innovative. His level of English and scientific writing skills are excellent too. [...] Not only is he very
-productive, in addition the scientific level of his work is very high.")`
+productive, in addition the scientific level of his work is very high."')`
 
 ### Education and Degrees
 
