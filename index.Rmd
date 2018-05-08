@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-date: "`r format(Sys.time(), '%d %B %Y')`"
+date: "05 May 2018"
 output:
  html_document:
   toc: true
@@ -33,60 +33,57 @@ table <-
 
 `r table("Name", "<b>Alessandro Samuel Rosa</b>")`
 
-`r table("Citation", "SAMUEL-ROSA, Alessandro; ROSA, Alessandro Samuel; ROSA, Alessandro Samuel da")`
+`r table("Citation", "SAMUEL-ROSA, Alessandro")`
 
 `r table("Nationality", "Brazilian")`
 
 `r table("Date and place of birth", "05 June 1985, Tapera, Rio Grande do Sul")`
 
-`r table("Address", "
-Rua Walcreuze Guimarães, 545<br>
-Bairro Boa Esperança<br>
-CEP 23894458<br>
-Seropédica, Rio de Janeiro, Brazil")`
+`r table("Work address", "
+Universidade Tecnológica Federal do Paraná<br>
+Prolongamento da Rua Cerejeira, s/n, Sala E8<br>
+Bairro São Luiz<br>
+CEP 85892-000<br>
+Santa Helena, Paraná, Brazil")`
 
-`r table("Telephone", "+55 (21) 2682-8516 or +55 (21) 97319-3838")`
+`r table("Telephone", "+55 (45) 3268-8800 or +55 (19) 9-9191-5377")`
 
-`r table("E-mail", "alessandrosamuelrosa at gmail.com")`
+`r table("E-mail", "alessandrorosa@utfpr.edu.br")`
 
 `r table("Skype", "alessandrosamuel")`
 
-`r table("Webpage", "https://www.researchgate.net/profile/Alessandro_Samuel-Rosa")`
+`r table("ORCID", "https://orcid.org/0000-0003-0877-1320")`
 
-`r table("Complete CV", "http://lattes.cnpq.br/1609751519717461")`
+`r table("ResearchGate", "https://www.researchgate.net/profile/Alessandro_Samuel-Rosa")`
+
+`r table("GitHub", "https://github.com/samuel-rosa")`
+
+`r table("Twitter", "https://twitter.com/ASamuelRosa")`
+
+`r table("Lattes", "http://lattes.cnpq.br/1609751519717461")`
 
 ### Qualifications
 
 `r table("", 
-"Alessandro Samuel-Rosa has studied soil science and works at the Federal University of Santa Maria (UFSM) 
-since the end of 2016. After his early work on the interactions between land use and soil quality
-at UFSM, in 2012 he moved to the field of Pedometrics. Collaboration with researchers from the National 
-Centre for Research on Soils (Embrapa Soils), International Soil Reference and Information Centre (ISRIC),
-Wageningen University and Research Centre (WUR) and Federal Rural University of Rio de Janeiro (UFRRJ) 
-enabled him to master multiple pedometric methods and techniques. His main research interest is on soil 
-spatial modelling with a focus on sampling strategies, model selection and calibration, and uncertainty
-analysis. He has recently published some relevant papers in peer-reviewed, international journals on these 
-topics. He is the author of two R-packages, namely, pedometrics -- a collection of functions for spatial
-exploratory data analysis and model calibration -- and spsann -- an implementation of simulated annealing to
-optimize spatial sample configurations. Both packages are widely used, each with more than 200 downloads per
-month on average from the RStudio CRAN mirror.")`
+"I am teacher and researcher of the Federal University of Technology - Paraná, Campus Santa Helena (UTFPR-SH), since March 2018. After my first studies at the Federal University of Santa Maria (UFSM) on the complex interactions between land use and quality of soil, in 2012, I moved to the field of quantitative pedology, better known as pedometrics. Since then, collaboration with researchers from the National Soil Research Center (Embrapa Soils, Brazil), the International Soil Reference and Information Center (ISRIC, the Netherlands), Wageningen University and Research (WUR, the Netherlands), and the Federal Rural University of Rio de Janeiro (UFRRJ, Brazil), allowed me to familiarize myself with multiple pedometrics methods and techniques.
+Today, my main academic-scientific interest is pedometrics, more specifically the spatial sample optimization strategies, the selection of environmental covariates and calibration of (geo)statistical models for digital soil mapping, including multivariate statistics and machine learning tools, and bottom-up approaches for open soil data compilation and sharing. Recently, I have published some relevant articles on these topics in national and international journals. I am also the author of three packages for R - pedometrics, spsann, and febr - and maintainer of the Free Brazilian Repository for Open Soil Data (febr).")`
 
-`r table("Gustavo Vasques", 
-"I have had the pleasure of co-advising Alessandro Samuel Rosa during his doctoral studies [...]. In this 
+`r table("Gustavo Vasques<br>(Embrapa Soils)",
+'"I have had the pleasure of co-advising Alessandro Samuel Rosa during his doctoral studies [...]. In this 
 period I came to know Alessandro’s professional and personal skills and am confident to say that he is an
 outstanding researcher and person. He is really smart, organized, and meticulous with everything he does. [...]
 I must add that doing research and publishing with Alessandro is easy, as he leads and guides us through the
 whole process very smoothly, be it research (data collection, analysis, interpretation, etc.) or publication 
-(write-up, submission, review, etc.). This is partly due to his excellent English and writing skills.")`
+(write-up, submission, review, etc.). This is partly due to his excellent English and writing skills."')`
 
-`r table("Gerard Heuvelink",
-"Alessandro came to Wageningen to work on his PhD-research for twelve months in 2014 and also came for a 
+`r table("Gerard Heuvelink<br>(ISRIC)",
+'"Alessandro came to Wageningen to work on his PhD-research for twelve months in 2014 and also came for a 
 shorter period in 2015. During these periods I had ample time to get to know him better. Without any doubt I 
 can say that he is among the best PhD students that I have supervised. He is intelligent, dedicated, 
 meticulous, cooperative, hard-working and self-critical. He can master new methods and techniques very quickly.
 He is strong in soil science, statistics as well as in information science. Above all, he is creative and
 innovative. His level of English and scientific writing skills are excellent too. [...] Not only is he very
-productive, in addition the scientific level of his work is very high.")`
+productive, in addition the scientific level of his work is very high."')`
 
 ### Education and Degrees
 
@@ -101,7 +98,7 @@ Grantee of the National Council for Scientific and Technological Development (CN
 
 `r table('2010--2012', 'MSc in Soil Science.<br>
 Federal University of Santa Maria, UFSM, Brazil.<br>
-Title: Soil Properties Spatial Prediction Functions<br>
+Title: Spatial Prediction Functions for Soil Properties<br>
 Advisor: <a href="http://lattes.cnpq.br/3735884911693854">Ricardo Dalmolin</a>.<br>
 Grantee of the National Council for Scientific and Technological Development (CNPq), Brazil.')`
 
@@ -111,7 +108,7 @@ Advisor: <a href="http://lattes.cnpq.br/3735884911693854">Ricardo Dalmolin</a>.<
 
 ### Postdoctorate
 
-`r table("Dec 2016--", "Federal University of Santa Maria, UFSM, Brazil.<br>
+`r table("Dec 2016--Feb 2018", "Federal University of Santa Maria, UFSM, Brazil.<br>
 Grantee of the Coordination for the Improvement of Higher Education Personnel (CAPES), Brazil.<br>
 Major Area: Agrarian Sciences. Area: Soil Science. Sub-area: Pedometrics.")`
 
@@ -123,9 +120,15 @@ Major Area: Agrarian Sciences. Area: Soil Science. Sub-area: Pedometrics.")`
 
 `r table("Former languages", "English (good), Spanish (fair)")`
 
-`r table("Computer languages", "R (good), (La)TeX (good), C++ (slight)")`
+`r table("Computer languages", "R (good), (La)TeX (good), JavaScript (slight), C++ (slight), Python (slight)")`
+
+`r table("GIS software", "QGIS (good), SAGA (good), GRASS GIS (good)")`
 
 ### Awards
+
+`r table("2018", "Winner of the International Union of Soil Sciences' Global Soil Icon Contest")`
+
+`r table("2017", "2017 Soil Science Society of America Journal Outstanding Reviewer")`
 
 `r table("2014", "geoENV 2014 best student oral presentation and poster (3rd place)")`
 
@@ -133,25 +136,29 @@ Major Area: Agrarian Sciences. Area: Soil Science. Sub-area: Pedometrics.")`
 
 ### Training and Lecturing
 
-`r table("10 Oct 2016", "One-day course 'Introduction to spatial sampling using R' at Federal
-Rural University of Rio de Janeiro (Postgraduate Course in Agronomy--Soil Science)")`
+`r table("06 Dec 2017", "One-day workshop 'Open soil data workshop' at Federal University of Santa Maria (Postgraduate Course in Soil Science), Santa Maria, Brazil")`
 
-`r table("Feb--Mar 2016", "Five-day course 'Special Topics in Soil Science -- Using Big Data in Soil
-Science' (in cooperation with Eloi Ribeiro) at São Paulo State University (Postgraduate Course in Soil
-Science)")`
+`r table("Oct--Dec 2017", "45-h course 'Topics in Soil Science -- Geostatistical Modeling of the Environment' at Federal University of Santa Maria (Postgraduate Course in Soil Science), Santa Maria, Brazil")`
+
+`r table("05--09 Jun 2017", "Five-day course 'Detailed digital soil mapping' (in collaboration with Ricardo Dalmolin, Jean Michel Moura-Bueno, and Carlos Alberto Flores) at Paraná Agronomic Institute (IAPAR), Londrina, Brazil")`
+
+`r table("10 Oct 2016", "One-day course 'Introduction to spatial sampling using R' at Federal Rural University of Rio de Janeiro (Postgraduate Course in Agronomy--Soil Science), Seropédica, Brazil")`
+
+`r table("Feb--Mar 2016", "Five-day course 'Special Topics in Soil Science -- Using Big Data in Soil Science' (in collaboration with Eloi Ribeiro) at São Paulo State University (Postgraduate Course in Soil Science), Jaboticabal, Brazil")`
 
 ### Conference Organization
 
-`r table(2017, "Member of the scientific committee of the Pedometrics conference in Wageningen, the
-Netherlands")`
+`r table(2018, "Co-convener and excursion guide at the 21st World Congress of Soil Science, Rio de Janeiro, Brazil")`
 
-`r table(2016, "Member of the organizing committee of the first Brazilian Meeting on Pedometrics in Campinas,
-São Paulo")`
+`r table(2018, "Member of the organizing committee of the 3rd International Soil Judging Contenst, Rio de Janeiro, Brazil")`
+
+`r table(2017, "Member of the scientific committee of the Pedometrics conference in Wageningen, Wageningen, the Netherlands")`
+
+`r table(2016, "Member of the organizing committee of the 1st Brazilian Meeting on Pedometrics, Campinas, Brazil")`
 
 ### Refereeing
 
-`r table("2012--present", "Alessandro Samuel-Rosa has refereed papers for the following journals: 
-Ciência Rural, Spatial Statistics, Floresta & Ambiente, Earth System Science Data.")`
+`r table("2012--present", "I have refereed papers for the following journals: Ciência Rural, Spatial Statistics, Floresta & Ambiente, Earth System Science Data, Revista Brasileira de Ciência do Solo, Geoderma, Soil Science Society of America Journal, Scientia Agricola, Archives of Agronomy and Soil Science.")`
 
 ### Professional association
 
@@ -159,55 +166,31 @@ Ciência Rural, Spatial Statistics, Floresta & Ambiente, Earth System Science Da
 
 `r table("2014--2015", "Member of the European Geosciences Union")`
 
-`r table("2012--present", "Member of the Brazilian Society of Soil Science and the International Union of
-Soil Sciences")`
+`r table("2012--present", "Member of the Brazilian Society of Soil Science and the International Union of Soil Sciences")`
 
 ## Selected Publications
 
 ### Journal Articles 
 
-`r table(2017, "VILLELA, A. L. O.; <b>SAMUEL-ROSA, Alessandro</b>; VASQUES, G. M.; CEDDIA, M. B. Digital soil
-mapping in the poorly-accessible Brazilian Amazon using a reference area. (IN PREPARATION)",
-"https://www.researchgate.net/project/Digital-soil-mapping-in-the-Brazilian-Amazon--using-the-knowledge-from-a-reference-area")`
+`r table(2019, "<b>SAMUEL-ROSA, Alessandro</b>; BRUS, D. J.; HEUVELINK, G. B.; VASQUES, G. M.; ANJOS, L. H. C. Optimization of sample configurations for spatial trend estimation for soil mapping. European Journal of Soil Science (IN PREPARATION).", "https://www.researchgate.net/project/Optimization-of-sample-configurations-for-spatial-trend-estimation-for-soil-mapping")`
 
-`r table(2017, "ALHO, C. F. B. V.; <b>SAMUEL-ROSA, Alessandro</b>; HIEMSTRA, T.; KUYPER, T. W.; 
-MARTINS, G. C.; TEIXEIRA, W. G. Spatial modelling of total carbon, calcium and phosphorus stocks in Amazonian 
-Dark Earths. (IN PREPARATION)",
-"https://www.researchgate.net/project/Spatial-modelling-of-elemental-stocks-in-Amazonian-Dark-Earths")`
+`r table(2019, "COSTA, E. M.; <b>SAMUEL-ROSA, Alessandro</b>; ANJOS, L. H. C. Choosing a digital elevation model for digital soil mapping. Annals of the Brazilian Academy of Sciences. Revista Brasileira de Ciência do Solo (IN PREPARATION).", "https://www.researchgate.net/project/Choosing-a-digital-elevation-model-for-digital-soil-mapping")`
 
-`r table(2017, "<b>SAMUEL-ROSA, Alessandro</b>; BRUS, D. J.; HEUVELINK, G. B.; VASQUES, G. M.; ANJOS, L. H. C.
-Optimization of sample configurations for spatial trend estimation for soil mapping. (IN PREPARATION)",
-"https://www.researchgate.net/project/Optimization-of-sample-configurations-for-spatial-trend-estimation-for-soil-mapping")`
+`r table(2019, "CEDDIA, M. B.; VILLELA, A. L. O.; VASQUES, G. M.; <b>SAMUEL-ROSA, Alessandro</b>. Digital soil mapping in the poorly-accessible Brazilian Amazon using a reference area. Science of the Total Environment (IN PREPARATION).", "https://www.researchgate.net/project/Digital-soil-mapping-in-the-Brazilian-Amazon--using-the-knowledge-from-a-reference-area")`
 
-`r table(2016, "COSTA, E. M.; <b>SAMUEL-ROSA, Alessandro</b>; ANJOS, L. H. C. Choosing a digital
-elevation model for digital soil mapping. Annals of the Brazilian Academy of Sciences. (SUBMMITED)",
-"https://www.researchgate.net/project/Choosing-a-digital-elevation-model-for-digital-soil-mapping")`
+`r table(2018, "ALHO, C. F. B. V.; <b>SAMUEL-ROSA, Alessandro</b>; HIEMSTRA, T.; KUYPER, T. W.; MARTINS, G. C.; TEIXEIRA, W. G. Spatial variation of carbon and nutrients stocks in Amazonian Dark Earths. Geoderma (ACCEPTED WITH MINOR REVISION)", "https://www.researchgate.net/project/Spatial-modelling-of-elemental-stocks-in-Amazonian-Dark-Earths")`
 
-`r table(2015, "<b>SAMUEL-ROSA, Alessandro</b>; HEUVELINK, G. B.; VASQUES, G. M.; ANJOS, L. H. 
-C. Do more detailed environmental covariates deliver more accurate soil maps? Geoderma, v. 243-244, 
-p. 214-227.", doi = "10.1016/j.geoderma.2014.12.017")`
+`r table(2015, "<b>SAMUEL-ROSA, Alessandro</b>; HEUVELINK, G. B.; VASQUES, G. M.; ANJOS, L. H. C. Do more detailed environmental covariates deliver more accurate soil maps? Geoderma, v. 243-244, p. 214-227.", doi = "10.1016/j.geoderma.2014.12.017")`
 
-`r table(2014, "HENGL, T.; JESUS, J. M.; MACMILLAN, R. A.; BATJES, N. H.; HEUVELINK, G. B.; RIBEIRO, E. C.;
-<b>SAMUEL-ROSA, Alessandro</b>; KEMPEN, B.; LEENAARS, J. G.; WALSH, M. G.; GONZALEZ, M. R. 
-SoilGrids1km---Global Soil Information Based on Automated Mapping. Plos One, v. 9, p. e105992.",
-doi = "10.1371/journal.pone.0105992")`
+`r table(2014, "HENGL, T.; JESUS, J. M.; MACMILLAN, R. A.; BATJES, N. H.; HEUVELINK, G. B.; RIBEIRO, E. C.; <b>SAMUEL-ROSA, Alessandro</b>; KEMPEN, B.; LEENAARS, J. G.; WALSH, M. G.; GONZALEZ, M. R. SoilGrids1km---Global Soil Information Based on Automated Mapping. Plos One, v. 9, p. e105992.", doi = "10.1371/journal.pone.0105992")`
 
-`r table(2013, "<b>SAMUEL-ROSA, Alessandro</b>; DALMOLIN, R. S. D.; MIGUEL, P. Building predictive models of 
-soil particle-size distribution. Brazilian Journal of Soil Science, v. 37, p. 422-430.",
-doi = "10.1590/s0100-06832013000200013")`
+`r table(2013, "<b>SAMUEL-ROSA, Alessandro</b>; DALMOLIN, R. S. D.; MIGUEL, P. Building predictive models of soil particle-size distribution. Brazilian Journal of Soil Science, v. 37, p. 422-430.", doi = "10.1590/s0100-06832013000200013")`
 
-`r table(2013, "<b>SAMUEL-ROSA, Alessandro</b>; DALMOLIN, R. S. D.; MIGUEL, P.; ZALAMENA, J.; DICK, D. P. 
-The effect of intrinsic soil properties on soil quality assessments. Brazilian Journal of Soil Science, 
-v. 37, p. 1236-1244.", doi = "10.1590/s0100-06832013000500013")`
+`r table(2013, "<b>SAMUEL-ROSA, Alessandro</b>; DALMOLIN, R. S. D.; MIGUEL, P.; ZALAMENA, J.; DICK, D. P. The effect of intrinsic soil properties on soil quality assessments. Brazilian Journal of Soil Science, v. 37, p. 1236-1244.", doi = "10.1590/s0100-06832013000500013")`
 
-`r table(2012, "PEDRON, F. A.; <b>SAMUEL-ROSA, Alessandro</b>; DALMOLIN, R. S. D. Variation in pedological
-characteristics and the taxonomic classification of Argissolos (Ultisols and Alfisols) derived from 
-sedimentary rocks. Brazilian Journal of Soil Science, v. 36, p. 1-9.", 
-doi = "10.1590/S0100-06832012000100001")`
+`r table(2012, "PEDRON, F. A.; <b>SAMUEL-ROSA, Alessandro</b>; DALMOLIN, R. S. D. Variation in pedological characteristics and the taxonomic classification of Argissolos (Ultisols and Alfisols) derived from sedimentary rocks. Brazilian Journal of Soil Science, v. 36, p. 1-9.", doi = "10.1590/S0100-06832012000100001")`
 
-`r table(2011, "<b>SAMUEL-ROSA, Alessandro</b>; DALMOLIN, R. S. D.; PEDRON, F. A. Characterization of soil 
-covers in closed landfill sites with (geo)statistical tools. Engenharia Sanitária e Ambiental, v. 16, p. 
-121-126.", "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1413-41522011000200004&lng=en&tlng=pt")`
+`r table(2011, "<b>SAMUEL-ROSA, Alessandro</b>; DALMOLIN, R. S. D.; PEDRON, F. A. Characterization of soil covers in closed landfill sites with (geo)statistical tools. Engenharia Sanitária e Ambiental, v. 16, p. 121-126.", "http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1413-41522011000200004&lng=en&tlng=pt")`
 
 ### Proceedings Papers
 
