@@ -66,11 +66,7 @@ Santa Helena, Paraná, Brazil")`
 
 `r table("", 
 "I am teacher and researcher of the Federal University of Technology - Paraná, Campus Santa Helena (UTFPR-SH), since March 2018. After my first studies at the Federal University of Santa Maria (UFSM) on the complex interactions between land use and quality of soil, in 2012, I moved to the field of quantitative pedology, better known as pedometrics. Since then, collaboration with researchers from the National Soil Research Center (Embrapa Soils, Brazil), the International Soil Reference and Information Center (ISRIC, the Netherlands), Wageningen University and Research (WUR, the Netherlands), and the Federal Rural University of Rio de Janeiro (UFRRJ, Brazil), allowed me to familiarize myself with multiple pedometrics methods and techniques.
-<<<<<<< HEAD
 Today, my main academic-scientific interest is pedometrics, more specifically the spatial sample optimization strategies, the selection of environmental covariates and calibration of (geo)statistical models for digital soil mapping, including multivariate statistics and machine learning tools, and bottom-up approaches for open soil data compilation and sharing. Recently, I have published some relevant articles on these topics in national and international journals. I am also the author of three packages for R - pedometrics, spsann, and febr - and maintainer of the Free Brazilian Repository for Open Soil Data (febr).")`
-=======
-Today, my main academic-scientific interest is pedometrics, more specificaly the study of spatial sampling strategies, the selection and calibration of (geo)statistical models for digital soil mapping, and bottom-up approaches for open soil data management. Recently, I have published some relevant articles on these topics in national and international journals. I am also the author of three packages for R - pedometrics, spsann, and febr - and maintainer of the Free Brazilian Repository for Open Soil Data (febr).")`
->>>>>>> 665e7085178e0a750f25ed56412461830fb028b0
 
 `r table("Gustavo Vasques<br>(Embrapa Soils)",
 '"I have had the pleasure of co-advising Alessandro Samuel Rosa during his doctoral studies [...]. In this 
